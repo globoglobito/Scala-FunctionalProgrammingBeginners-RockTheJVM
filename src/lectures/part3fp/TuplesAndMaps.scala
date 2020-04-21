@@ -91,7 +91,62 @@ Person = String
     unfriended - person
   }
 
+  val empty: Map[String, Set[String]] = Map()
+  val network = add(add(empty, "Bob"), "Mary")
+
+  println(network)
+  println(friend(network,"Bob", "Mary"))
+  println(unfriend(friend(network,"Bob", "Mary"),"Bob", "Mary"))
+  println(remove(friend(network,"Bob", "Mary"),"Bob"))
 
 
+  // Jim, Mary, Bob
+  val people = add(add(add(empty, "Bob"), "Mary"), "Jim")
+  val jimBob = friend(people,"Bob", "Jim")
+  val testNet = friend(jimBob, "Bob", "Mary")
+
+  println(testNet)
+
+  // number of friends of a person
+  def nFriends(network: Map[String, Set[String]], person: String ): Int = {
+    if(!network.contains(person)) 0
+    else network(person).size
+  }
+  println(nFriends(testNet, "Bob"))
+
+  // person with most friends
+  def mostFriend(network: Map[String, Set[String]]): String =
+    network.maxBy(pair => pair._2.size)._1
+  /* Basically check how the network is:
+  Map(Bob -> Set(Jim, Mary), Mary -> Set(Bob), Jim -> Set(Bob))
+  you are simply finding the max number of friends and returning the name aka "_1"
+   */
+  println(mostFriend(testNet))
+
+  // persons with no friends
+  def nForeverAlone(network: Map[String, Set[String]]): Int =
+    network.count(pair => pair._2.isEmpty)
+
+  println(nForeverAlone(testNet)) // none are forever alone
+
+
+  // is there s social connection between 2 people?
+
+
+  def socialConnection(network: Map[String, Set[String]], a: String, b: String): Boolean ={
+    def bfs(target: String, consideredPeople:Set[String], discoveredPeople:Set[String]): Boolean = {
+      if (discoveredPeople.isEmpty) false
+      else {
+        val person = discoveredPeople.head
+        if (person == target) true
+        else if (consideredPeople.contains(person)) bfs(target, consideredPeople, discoveredPeople.tail)
+        else bfs(target, consideredPeople + person, discoveredPeople.tail ++ network(person))
+      }
+    }
+
+    bfs(b, Set(), network(a) + a)
+  }
+
+  println(socialConnection(testNet, "Mary", "Jim"))
 }
 
