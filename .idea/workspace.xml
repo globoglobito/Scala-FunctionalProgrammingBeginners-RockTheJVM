@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3917bf0-79b7-47e6-bee7-7de7853f5d68" name="Default Changelist" comment="" />
+    <list default="true" id="b3917bf0-79b7-47e6-bee7-7de7853f5d68" name="Default Changelist" comment="Finished TuplesAndMaps and removed the out/ from the repository">
+      <change afterPath="$PROJECT_DIR$/src/lectures/part3fp/Options.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scala&amp;FunctionalProgrammingBeginners-RockTheJVM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Scala&amp;FunctionalProgrammingBeginners-RockTheJVM.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/Maybe.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/Maybe.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/MethodNotationsEX.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/MethodNotationsEX.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/Mylist.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/Mylist.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part1basics/CallbyNameCallbyValue.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part1basics/CallbyNameCallbyValue.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part1basics/DefaultArgs.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part1basics/DefaultArgs.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part1basics/Expressions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part1basics/Expressions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part1basics/Functions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part1basics/Functions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part1basics/Recursion.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part1basics/Recursion.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part1basics/StringOps.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part1basics/StringOps.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part1basics/ValuesVariablesTypes.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part1basics/ValuesVariablesTypes.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/AbstractDataTypes.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/AbstractDataTypes.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/AnonymousClass.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/AnonymousClass.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/CaseClasses.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/CaseClasses.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/Exceptions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/Exceptions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/Generics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/Generics.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/Inheritance.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/Inheritance.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/MethodNotations.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/MethodNotations.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/OOBasics.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/OOBasics.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/Objects.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/Objects.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/PackagingAndImports.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/PackagingAndImports.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/package.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part3fp/AnonymousFunctions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part3fp/AnonymousFunctions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part3fp/HOFCurries.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part3fp/HOFCurries.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part3fp/MapFlatMapFilterFor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part3fp/MapFlatMapFilterFor.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part3fp/Sequences.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part3fp/Sequences.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part3fp/WhatsAFunction.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part3fp/WhatsAFunction.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/playground/ExampleForImports.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/ExampleForImports.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/playground/JavaPlayground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/JavaPlayground.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/playground/ScalaPlayground.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/ScalaPlayground.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +43,21 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Globoglobito &lt;bruno.m.cervantes.q@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1aqZlQPP3iLAsrsURiCQqktgF5q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,10 +65,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Options">
+    <configuration name="Options" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part3fp.Options" />
+      <module name="Scala&amp;FunctionalProgrammingBeginners-RockTheJVM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part3fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TuplesAndMaps" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.part3fp.TuplesAndMaps" />
       <module name="Scala&amp;FunctionalProgrammingBeginners-RockTheJVM" />
@@ -40,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Options" />
         <item itemvalue="Application.TuplesAndMaps" />
       </list>
     </recent_temporary>
@@ -62,28 +121,52 @@
       <option name="presentableId" value="Default" />
       <updated>1587465234268</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finished TuplesAndMaps and removed the out/ from the repository">
+      <created>1587470331971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587470331971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished TuplesAndMaps and removed the out/ from the repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished TuplesAndMaps and removed the out/ from the repository" />
   </component>
   <component name="WindowStateProjectService">
     <state x="391" y="614" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1587465329674">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="391" y="614" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587465329674" />
-    <state width="1258" height="401" key="GridCell.Tab.0.bottom" timestamp="1587465362843">
+    <state x="69" y="294" key="CommitChangelistDialog2" timestamp="1587470331572">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587465362843" />
-    <state width="1258" height="401" key="GridCell.Tab.0.center" timestamp="1587465362843">
+    <state x="69" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1587470331572" />
+    <state width="1260" height="401" key="GridCell.Tab.0.bottom" timestamp="1587501153552">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587465362843" />
-    <state width="1258" height="401" key="GridCell.Tab.0.left" timestamp="1587465362843">
+    <state width="1260" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587501153552" />
+    <state width="1260" height="401" key="GridCell.Tab.0.center" timestamp="1587501153552">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587465362843" />
-    <state width="1258" height="401" key="GridCell.Tab.0.right" timestamp="1587465362843">
+    <state width="1260" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587501153552" />
+    <state width="1260" height="401" key="GridCell.Tab.0.left" timestamp="1587501153552">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1258" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587465362843" />
+    <state width="1260" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587501153552" />
+    <state width="1260" height="401" key="GridCell.Tab.0.right" timestamp="1587501153552">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1260" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587501153552" />
+    <state x="127" y="342" key="SettingsEditor" timestamp="1587470266111">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="127" y="342" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587470266111" />
+    <state x="218" y="433" key="Vcs.Push.Dialog.v2" timestamp="1587470486249">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="218" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1587470486249" />
   </component>
 </project>
